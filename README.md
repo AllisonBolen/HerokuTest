@@ -9,3 +9,6 @@ Use flask to build a testing framework with
 Use virtual Env
 
 pip freeze > requirements.txt
+
+
+https://coderwall.com/p/pstm1w/deploying-a-flask-app-at-heroku
